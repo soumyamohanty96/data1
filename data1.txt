@@ -1,10 +1,1 @@
-commit1
-<<<<<<< HEAD
-
-
-commit2
-
-
-commit3
-=======
->>>>>>> parent of 4a9fa8b (commit 2)
+commit 5
